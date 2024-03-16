@@ -1,0 +1,9 @@
+transformers
+wandb
+datasets
+ctranslate2
+nltk
+rouge-score
+jsonlines
+evaluate
+torch
